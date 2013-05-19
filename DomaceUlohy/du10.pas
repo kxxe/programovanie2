@@ -30,7 +30,7 @@ begin
 		for y:= 1 to M do 
 			plocha[x,y]:= 0;
 	end;
-end; // koniec funkcie
+end;
 
 procedure VypisPlochu;
 var
